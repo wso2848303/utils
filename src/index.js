@@ -1,1 +1,4 @@
-export {default as String} from './string';
+import String from './string';
+export default {
+  String
+};
