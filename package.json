@@ -1,6 +1,6 @@
 {
   "name": "@wso2848303/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A usually tool for javascript for myself",
   "main": "/dist/bundle.js",
   "scripts": {
